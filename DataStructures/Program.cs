@@ -6,8 +6,7 @@ namespace CommandProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-           // Stack<int> stack = new Stack().Pop(new);
+            Console.WriteLine("Data Structures");
         }
     }
 }
